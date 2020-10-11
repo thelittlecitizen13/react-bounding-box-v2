@@ -24,7 +24,7 @@
   "_spec": "react-bounding-box",
   "_where": "C:\\InstaBoom\\InstaBoom-Client",
   "bugs": {
-    "url": "https://github.com/alx/react-bounding-box/issues"
+    "url": "https://github.com/thelittlecitizen13/react-bounding-box-v2/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -63,7 +63,7 @@
   "engines": {
     "npm": "^3.0.0"
   },
-  "homepage": "https://github.com/alx/react-bounding-box#readme",
+  "homepage": "https://github.com/thelittlecitizen13/react-bounding-box-v2",
   "license": "MIT",
   "main": "dist/react-bounding-box.js",
   "name": "react-bounding-box",
@@ -72,7 +72,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alx/react-bounding-box.git"
+    "url": "git+https://github.com/thelittlecitizen13/react-bounding-box-v2"
   },
   "scripts": {
     "build": "webpack src/react-bounding-box.js dist/react-bounding-box.js",
